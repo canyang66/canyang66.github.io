@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhimeng Jiang"
+title                    : "Kaixiong Zhou"
 title_separator          : "-"
-name                     : &name "Zhimeng Jiang"
-description              : &description "PhD student, Department of Computer Science and Engineering, Texas A&M University"
-url                      : https://zhimengj0326.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Kaixiong Zhou"
+description              : &description "PhD student, Department of Computer, Rice University"
+url                      : https://kaixiong-zhou.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "zhimengj0326/zhimengj0326.github.io"
+repository               : "Kaixiong-Zhou/kaixiong-zhou.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhimeng Jiang"
-  avatar           : "zm_profile.jpg"
-  bio              : "PhD student, Department of Computer Science and Engineering, Texas A&M University"
-  location         : "College Station, Texas"
+  name             : "Kaixiong Zhou"
+  avatar           : "kx_profile.png"
+  bio              : "PhD student, Department of Computer Science, Rice University"
+  location         : "Houston, Texas"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=5Es3Yk4AAAAJ&hl=en"
-  email            : "zhimengj@tamu.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=KlvcurEAAAAJ&hl=en"
+  email            : "Kaixiong.Zhou@rice.edu"
   researchgate     : 
   uri              :
   bitbucket        :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "zhimengj0326"
+  github           : "Kaixiong-Zhou"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "zhimeng-jiang-175361167/"
-  orcid            : "https://orcid.org/0000-0001-6933-3952"
+  linkedin         : "kaixiong-zhou-456ba716b/"
+  orcid            : "https://orcid.org/0000-0001-5226-8736"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
