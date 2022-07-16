@@ -5,29 +5,22 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Under review
+## Preprint
 <b>[Risk-Aware Reinforcement Learning Based Bid Optimization](??)
 </b><br><b>Zhimeng Jiang</b>, Kaixiong Zhou, Mi Zhang, Rui Chen, Xia Hu, and Soo-Hyun Choi.
 
-<b>[FMP: Toward Fair Graph Message Passing against Topology Bias](https://arxiv.org/abs/2202.04187)
-</b><br><b>Zhimeng Jiang</b>, Xiaotian Han, Chao Fan, Zirui Liu, Zou Na, Ali Mostafavi and Xia Hu.
-
-<b>[BED: A Real-Time Object Detection System for Edge Devices.](https://arxiv.org/abs/2202.07503)
-</b><br>Guanchu Wang\*, Zaid Pervaiz Bhat\*, <b>Zhimeng Jiang\*</b>, Yi-Wei Chen\*, Daochen Zha\*, Alfredo Costilla Reyes*, Afshin Niktash, Gorkem Ulkar, Erman Okman, Xia Hu
 
 
-<!-- <b>[You Only Debias Once: Towards Flexible Accuracy-Fairness Trade-offs](??)
-</b><br>Xiaotian Han, Tianlong Chen, Kaixiong Zhou <b>Zhimeng Jiang</b>, Zhangyang Wang, and Xia Hu.  -->
 
+## Conference/Journal Papers (* indicates equal contributions)
+<b>[Recsys’ 22] TinyKG: Memory-Efficient Training Framework for Knowledge Graph Neural Recommender
+Systems
+</b><br>Huiyuan Chen, Xiaoting Li, <b>Kaixiong Zhou</b>, Xia Hu, Chin-Chia Michael Yeh, Yan Zheng, Hao Yang. <br>
+In Proceedings of the 16th ACM Recommender Systems Conference, 2022.
 
-## Conference Papers
-<b>[G-Mixup: Graph  Augmentation  for  Graph Classification](https://arxiv.org/abs/2202.07179)
-</b><br>Xiaotian Han, <b>Zhimeng Jiang</b>, Ninghao Liu, and Xia Hu. <br>
-International Conference on Machine Learning (**ICML**), 2022 (**Long Presentation**)
-
-<b>[An Information Fusion Approach to Learning with Instance-Dependent Label Noise](??)
-</b><br><b>Zhimeng Jiang</b>, Kaixiong Zhou, Zirui Liu, Li Li, Rui Chen, Soo-Hyun Choi, and Xia Hu.  <br>
-International Conference on Learning Representations (**ICLR**), 2022
+<b>[KDD' 22] GPPT: Graph Pre-training and Prompt Tuning to Generalize Graph Neural Networks
+</b><br> <b>Kaixiong Zhou*<b>, Ming-chen Sun*, Xin He,  Ying Wang, and Xin Wang. <br>
+In Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2022.
 
 <b>[Generalized Demographic Parity for Group Fairness](??)
 </b><br><b>Zhimeng Jiang</b>, Xiaotian Han, Chao Fan, Fan Yang, Ali Mostafavi, and Xia Hu. <br> 
