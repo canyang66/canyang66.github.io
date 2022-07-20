@@ -15,116 +15,116 @@ Auto-GNN: Neural Architecture Search of Graph Neural Networks
 
 ## Conference/Journal Papers (* indicates equal contributions)
 <b>[Recsys’ 22] TinyKG: Memory-Efficient Training Framework for Knowledge Graph Neural Recommender
-Systems
+Systems</b>
 Huiyuan Chen, Xiaoting Li, <b>Kaixiong Zhou</b>, Xia Hu, Chin-Chia Michael Yeh, Yan Zheng, Hao Yang.
 In Proceedings of the 16th ACM Recommender Systems Conference, 2022.
 
-<b>[KDD' 22] GPPT: Graph Pre-training and Prompt Tuning to Generalize Graph Neural Networks
+<b>[KDD' 22] GPPT: Graph Pre-training and Prompt Tuning to Generalize Graph Neural Networks</b>
 <b>Kaixiong Zhou*</b>, Ming-chen Sun*, Xin He,  Ying Wang, and Xin Wang.
-In Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2022.
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2022.
 
-<b>[TPAMI] Bag of Tricks for Training Deeper Graph Neural Networks: A Comprehensive Benchmark Study
+<b>[TPAMI] Bag of Tricks for Training Deeper Graph Neural Networks: A Comprehensive Benchmark Study</b>
 <b>Kaixiong Zhou</b>, Tianlong Chen*, Keyu Duan, Wenqing Zheng, Peihao Wang, Xia Hu, Zhangyang Wang.
 IEEE Transactions on Pattern Analysis and Machine Intelligence.
 
-[IJCAI' 22] Table2Graph: Transforming Tabular Data to Unified Weighted Graph
+[IJCAI' 22] Table2Graph: Transforming Tabular Data to Unified Weighted Graph</b>
 <b>Kaixiong Zhou</b>, Zirui Liu, Rui Chen, Li Li, Soo-Hyun Choi, and Xia Hu.
-In Proceedings of the 31th International Joint Conference on Artificial Intelligence, 2022.
+International Joint Conference on Artificial Intelligence, 2022.
 
-[AutoML-Conf' 22] AutoCoG: A Unified Data-Model Co-Search Framework for Graph Neural Networks
+[AutoML-Conf' 22] AutoCoG: A Unified Data-Model Co-Search Framework for Graph Neural Networks</b>
 Duc N.M Hoang, <b>Kaixiong Zhou</b>, Tianlong Chen, Xia Hu, and Zhangyang Wang.
-In Proceedings of 1st International Conference on Automated Machine Learning, 2022.
+International Conference on Automated Machine Learning, 2022.
 
-[SIGIR' 22] Adversarial Graph Perturbations for Recommendations at Scale (short paper)
+[SIGIR' 22] Adversarial Graph Perturbations for Recommendations at Scale (short paper)</b>
 Huiyuan Chen, <b>Kaixiong Zhou</b>, Kwei-Herng Lai, Xia Hu, Fei Wang, and Hao Yang.
-In Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval, 2022.
+International ACM SIGIR Conference on Research and Development in Information Retrieval, 2022.
 
-[GLB' 22] Benchmarking Large-Scale Graph Training Over Effectiveness And Efficiency
+[GLB' 22] Benchmarking Large-Scale Graph Training Over Effectiveness And Efficiency</b>
 Keyu Duan, Zirui Liu, Wenqing Zheng, Peihao Wang, <b>Kaixiong Zhou</b>, Tianlong Chen, Zhangyang Wang, and Xia Hu.
-In Workshop of the Graph Learning Benchmarks of The Web Conference, 2022.
+Workshop of the Graph Learning Benchmarks of The Web Conference, 2022.
 
-[ICLR' 22] EXACT: Scalable Graph Neural Networks Training via Extreme Activation Compression
+[ICLR' 22] EXACT: Scalable Graph Neural Networks Training via Extreme Activation Compression</b>
 Zirui Liu, <b>Kaixiong Zhou</b>, Fan Yang, Li Li, Rui Chen, and Xia Hu.
-In The Tenth International Conference on Learning Representation, 2022.
+International Conference on Learning Representation, 2022.
 
-[ICLR' 22] An Information Fusion Approach to Learning with Instance-Dependent Label Noise
+[ICLR' 22] An Information Fusion Approach to Learning with Instance-Dependent Label Noise</b>
 Zhimeng Jiang, <b>Kaixiong Zhou</b>, Zirui Liu, Li Li, Rui Chen, Soo-Hyun Choi, and Xia Hu.
-In The Tenth International Conference on Learning Representation, 2022.
+International Conference on Learning Representation, 2022.
 
-[SDM' 22] Towards Similarity-Aware Time-Series Classification with Graph Neural Networks
+[SDM' 22] Towards Similarity-Aware Time-Series Classification with Graph Neural Networks</b>
 Daochen Zha, Kwei-Herng Lai, <b>Kaixiong Zhou</b>, and Xia Hu.
-In Proceedings of SIAM International Conference on Data Mining, 2022.
+SIAM International Conference on Data Mining, 2022.
 
-[AAAI' 22] Orthogonal Graph Neural Networks
+[AAAI' 22] Orthogonal Graph Neural Networks</b>
 Kai Guo, <b>Kaixiong Zhou</b>, Xia Hu, Yu Li, Yi Chang, Xin Wang.
-In Proceedings of the 36th AAAI Conference on Artificial Intelligence, 2022.
+AAAI Conference on Artificial Intelligence, 2022.
 
-[NeurIPS' 21] Dirichlet Energy Constrained Learning for Deep Graph Neural Networks
+[NeurIPS' 21] Dirichlet Energy Constrained Learning for Deep Graph Neural Networks</b>
 <b>Kaixiong Zhou</b>, Xiao Huang,  Daochen Zha, Rui Chen, Li Li, Soo-Hyun Choi, and Xia Hu.
-In Proceedings of the 35th Conference on Neural Information Processing Systems, 2021.
+Conference on Neural Information Processing Systems, 2021.
 
-[ICCV' 21] DivAug: Plug-in Automated Data Augmentation with Explicit Diversity Maximization
+[ICCV' 21] DivAug: Plug-in Automated Data Augmentation with Explicit Diversity Maximization</b>
 Zirui Liu, Haifeng Jin, Ting-Hsiang Wang, <b>Kaixiong Zhou</b>, and Xia Hu.
-In Proceedings of 2021 International Conference on Computer Vision, 2021.
+International Conference on Computer Vision, 2021.
 
-[TNNLS] AutoAD: Automated Anomaly Detection via Curiosity-guided Search and Self-imitation Learning
+[TNNLS] AutoAD: Automated Anomaly Detection via Curiosity-guided Search and Self-imitation Learning</b>
 Yuening Li, Zhengzhang Chen, Daochen Zha, <b>Kaixiong Zhou</b>, Haifeng Jin, Haifeng Chen, and Xia Hu.
 IEEE Transactions on Neural Networks and Learning Systems.
 
-[SIGIR' 21] Temporal Augmented Graph Neural Networks for Session-Based Recommendations (short paper)
+[SIGIR' 21] Temporal Augmented Graph Neural Networks for Session-Based Recommendations (short paper)</b>
 Huachi Zhou, Qiaoyu Tan, Xiao Huang, <b>Kaixiong Zhou</b>, and Xiaoling Wang.
-In Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval, 2021.
+International ACM SIGIR Conference on Research and Development in Information Retrieval, 2021.
 
-[NeurIPS' 20] Towards Deeper Graph Neural Networks with Differentiable Group Normalization
+[NeurIPS' 20] Towards Deeper Graph Neural Networks with Differentiable Group Normalization</b>
 <b>Kaixiong Zhou</b>, Xiao Huang, Yuening Li, Daochen Zha, Rui Chen, and Xia Hu.
-In Proceedings of the 34th Conference on Neural Information Processing Systems, 2020.
+Conference on Neural Information Processing Systems, 2020.
 
-[NeurIPS' 20] Detecting Interactions from Neural Networks via Topological Analysis
+[NeurIPS' 20] Detecting Interactions from Neural Networks via Topological Analysis</b>
 Zirui Liu, Qingquan Song, <b>Kaixiong Zhou</b>, Ting-Hsiang Wang, Xia Hu.
-In Proceedings of the 34th Conference on Neural Information Processing Systems, 2020.
+Conference on Neural Information Processing Systems, 2020.
 
-[ICDE' 20] Neural Architecture Search for Outlier Detction (short paper)
+[ICDE' 20] Neural Architecture Search for Outlier Detction (short paper)</b>
 Yuening Li, Zhengzhang Chen, Daochen Zha, <b>Kaixiong Zhou</b>, Haifeng Jin, Haifeng Chen, and Xia Hu.
-In Proceedings of the 36th International Conference on Data Engineering, 2020.
+International Conference on Data Engineering, 2020.
 
-[KDD' 20] Aggregation Optimization for Graph Neural Networks
+[KDD' 20] Aggregation Optimization for Graph Neural Networks</b>
 Kwei Herng Lai, Daochen Zha, <b>Kaixiong Zhou</b>, and Xia Hu.
-In Proceedings of the 26th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2020.
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2020.
 
-[IJCAI' 20] Multi-Channel Graph Convolutional Networks
+[IJCAI' 20] Multi-Channel Graph Convolutional Networks</b>
 <b>Kaixiong Zhou</b>, Qingquan Song, Xiao Huang, Daochen Zha, Na Zou, Xia Hu.
-In Proceedings of the 29th International Joint Conference on Artificial Intelligence, 2020.
+International Joint Conference on Artificial Intelligence, 2020.
 
-[SDM' 20] Deep Neural Networks with Knowledge Instillation
+[SDM' 20] Deep Neural Networks with Knowledge Instillation</b>
 Fan Yang, Ninghao Liu, Mengnan Du, <b>Kaixiong Zhou</b>, Shuiwang Ji, and Xia Hu.
-In Proceedings of the SIAM International Conference on Data Mining, 2020.
+SIAM International Conference on Data Mining, 2020.
 
-[IJCAI' 19] Experience Replay Optimization
+[IJCAI' 19] Experience Replay Optimization</b>
 Daochen Zha, Kwei-Herng Lai, <b>Kaixiong Zhou</b>, and Xia Hu.
-In Proceedings of the 28th International Joint Conference on Artificial Intelligence, 2019.
+International Joint Conference on Artificial Intelligence, 2019.
 
-[JOCN] Distributed Channel Allocation and Rate Control for Hybrid FSO/RF Vehicular Ad Hoc Networks
+[JOCN] Distributed Channel Allocation and Rate Control for Hybrid FSO/RF Vehicular Ad Hoc Networks</b>
 <b>Kaixiong Zhou</b>, Chen Gong, Nan Wu, Zhengyuan Xu.
-IEEE/OSA Journal of Optical Communications and Networking, vol. 9, no. 8, pp. 669-681, Aug. 2017.
+IEEE/OSA Journal of Optical Communications and Networking, 2017.
 
-[JLT] Color Planning and Inter-Cell Interference Coordination for Multi-Color Visible Light Communication Networks
+[JLT] Color Planning and Inter-Cell Interference Coordination for Multi-Color Visible Light Communication Networks</b>
 <b>Kaixiong Zhou</b>, Chen Gong, Zhengyuan Xu
-IEEE/OSA Journal of Lightwave Technology, vol. 35, issue 22, pp. 4980-1993, Nov. 2017.
+IEEE/OSA Journal of Lightwave Technology, 2017.
 
 
-[WCSP' 17] Design and Demonstration of An Indoor Visible Light Communication Network with Dynamic User Access and Resource Allocation
+[WCSP' 17] Design and Demonstration of An Indoor Visible Light Communication Network with Dynamic User Access and Resource Allocation</b>
 Mian Zeng, <b>Kaixiong Zhou</b>, Chen Gong, Shun Lou, Xianqing Jin, Zhengyuan Xu.
-In Proceedings of IEEE International Conference on Wireless Communication and Signal Processing, Oct. 2017. 
+IEEE International Conference on Wireless Communication and Signal Processing, 2017. 
 
-[GlobalSIP' 16] Inter-Cell Interference Coordination for Multi-Color Visible Light Communication Networks
+[GlobalSIP' 16] Inter-Cell Interference Coordination for Multi-Color Visible Light Communication Networks</b>
 <b>Kaixiong Zhou</b>, Chen Gong, Qian Gao, Zhengyuan Xu.
-In Proceedings of IEEE Global Conference on Signal and Information Processing, Dec. 2016, pp. 6-10. 
+IEEE Global Conference on Signal and Information Processing, 2016. 
 
-[ICCC' 15] Enhanced Effective SNR Prediction for LTE Downlink
+[ICCC' 15] Enhanced Effective SNR Prediction for LTE Downlink</b>
 <b>Kaixiong Zhou</b>, Lin Zhang, and Ming Jiang.
-In Proceedings of IEEE International Conference in Communication in China, Nov. 2015, pp. 1-6. 
+IEEE International Conference in Communication in China, 2015.
 
 ## Book Chapter
-Graph Neural Networks: AutoML
+<b>Graph Neural Networks: AutoML</b>
 <b>Kaixiong Zhou</b>, Zirui Liu, Keyu Duan, Xia Hu
 Graph Neural Networks: Foundations, Frontiers, and Applications
