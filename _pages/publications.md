@@ -37,7 +37,7 @@ In Proceedings of 1st International Conference on Automated Machine Learning, 20
 
 [SIGIR' 22] Adversarial Graph Perturbations for Recommendations at Scale (short paper)
 Huiyuan Chen, <b>Kaixiong Zhou</b>, Kwei-Herng Lai, Xia Hu, Fei Wang, and Hao Yang.
-In Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval.
+In Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval, 2022.
 
 [GLB' 22] Benchmarking Large-Scale Graph Training Over Effectiveness And Efficiency
 Keyu Duan, Zirui Liu, Wenqing Zheng, Peihao Wang, <b>Kaixiong Zhou</b>, Tianlong Chen, Zhangyang Wang, and Xia Hu.
@@ -53,19 +53,19 @@ In The Tenth International Conference on Learning Representation, 2022.
 
 [SDM' 22] Towards Similarity-Aware Time-Series Classification with Graph Neural Networks
 Daochen Zha, Kwei-Herng Lai, <b>Kaixiong Zhou</b>, and Xia Hu.
-In Proceedings of SIAM International Conference on Data Mining.
+In Proceedings of SIAM International Conference on Data Mining, 2022.
 
 [AAAI' 22] Orthogonal Graph Neural Networks
 Kai Guo, <b>Kaixiong Zhou</b>, Xia Hu, Yu Li, Yi Chang, Xin Wang.
-In Proceedings of the 36th AAAI Conference on Artificial Intelligence.
+In Proceedings of the 36th AAAI Conference on Artificial Intelligence, 2022.
 
 [NeurIPS' 21] Dirichlet Energy Constrained Learning for Deep Graph Neural Networks
 <b>Kaixiong Zhou</b>, Xiao Huang,  Daochen Zha, Rui Chen, Li Li, Soo-Hyun Choi, and Xia Hu.
-In Proceedings of the 35th Conference on Neural Information Processing Systems.
+In Proceedings of the 35th Conference on Neural Information Processing Systems, 2021.
 
 [ICCV' 21] DivAug: Plug-in Automated Data Augmentation with Explicit Diversity Maximization
 Zirui Liu, Haifeng Jin, Ting-Hsiang Wang, <b>Kaixiong Zhou</b>, and Xia Hu.
-In Proceedings of 2021 International Conference on Computer Vision.
+In Proceedings of 2021 International Conference on Computer Vision, 2021.
 
 [TNNLS] AutoAD: Automated Anomaly Detection via Curiosity-guided Search and Self-imitation Learning
 Yuening Li, Zhengzhang Chen, Daochen Zha, <b>Kaixiong Zhou</b>, Haifeng Jin, Haifeng Chen, and Xia Hu.
@@ -73,27 +73,27 @@ IEEE Transactions on Neural Networks and Learning Systems.
 
 [SIGIR' 21] Temporal Augmented Graph Neural Networks for Session-Based Recommendations (short paper)
 Huachi Zhou, Qiaoyu Tan, Xiao Huang, <b>Kaixiong Zhou</b>, and Xiaoling Wang.
-In Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval.
+In Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval, 2021.
 
 [NeurIPS' 20] Towards Deeper Graph Neural Networks with Differentiable Group Normalization
 <b>Kaixiong Zhou</b>, Xiao Huang, Yuening Li, Daochen Zha, Rui Chen, and Xia Hu.
-In Proceedings of the 34th Conference on Neural Information Processing Systems.
+In Proceedings of the 34th Conference on Neural Information Processing Systems, 2020.
 
 [NeurIPS' 20] Detecting Interactions from Neural Networks via Topological Analysis
 Zirui Liu, Qingquan Song, <b>Kaixiong Zhou</b>, Ting-Hsiang Wang, Xia Hu.
-In Proceedings of the 34th Conference on Neural Information Processing Systems.
+In Proceedings of the 34th Conference on Neural Information Processing Systems, 2020.
 
 [ICDE' 20] Neural Architecture Search for Outlier Detction (short paper)
 Yuening Li, Zhengzhang Chen, Daochen Zha, <b>Kaixiong Zhou</b>, Haifeng Jin, Haifeng Chen, and Xia Hu.
-In Proceedings of the 36th International Conference on Data Engineering.
+In Proceedings of the 36th International Conference on Data Engineering, 2020.
 
 [KDD' 20] Aggregation Optimization for Graph Neural Networks
 Kwei Herng Lai, Daochen Zha, <b>Kaixiong Zhou</b>, and Xia Hu.
-In Proceedings of the 26th ACM SIGKDD Conference on Knowledge Discovery and Data Mining.
+In Proceedings of the 26th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2020.
 
 [IJCAI' 20] Multi-Channel Graph Convolutional Networks
 <b>Kaixiong Zhou</b>, Qingquan Song, Xiao Huang, Daochen Zha, Na Zou, Xia Hu.
-In Proceedings of the 29th International Joint Conference on Artificial Intelligence.
+In Proceedings of the 29th International Joint Conference on Artificial Intelligence, 2020.
 
 [SDM' 20] Deep Neural Networks with Knowledge Instillation
 Fan Yang, Ninghao Liu, Mengnan Du, <b>Kaixiong Zhou</b>, Shuiwang Ji, and Xia Hu.
@@ -101,7 +101,7 @@ In Proceedings of the SIAM International Conference on Data Mining, 2020.
 
 [IJCAI' 19] Experience Replay Optimization
 Daochen Zha, Kwei-Herng Lai, <b>Kaixiong Zhou</b>, and Xia Hu.
-In Proceedings of the 28th International Joint Conference on Artificial Intelligence.
+In Proceedings of the 28th International Joint Conference on Artificial Intelligence, 2019.
 
 [JOCN] Distributed Channel Allocation and Rate Control for Hybrid FSO/RF Vehicular Ad Hoc Networks
 <b>Kaixiong Zhou</b>, Chen Gong, Nan Wu, Zhengyuan Xu.
