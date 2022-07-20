@@ -10,7 +10,7 @@ author_profile: true
 <li>Adaptive Label Smoothing To Regularize Large-Scale Graph Training.<br />
 <b>Kaixiong Zhou</b>, Ninghao Liu, Fan Yang, Zirui Liu, Rui Chen, Li Li, Soo-Hyun Choi, and Xia Hu.<br /></li>
 
-<li>Auto-GNN: Neural Architecture Search of Graph Neural Networksbr />
+<li>Auto-GNN: Neural Architecture Search of Graph Neural Networksbr <br />
 <b>Kaixiong Zhou</b>, Qingquan Song, Xiao Huang, Xia Hu.<br /></li>
 </ul>
 
