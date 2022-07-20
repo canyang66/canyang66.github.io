@@ -17,7 +17,7 @@ Auto-GNN: Neural Architecture Search of Graph Neural Networks
 <p><font color="red">[Recsys’ 22]</font> TinyKG: Memory-Efficient Training Framework for Knowledge Graph Neural Recommender
 Systems<br>
 Huiyuan Chen, Xiaoting Li, <b>Kaixiong Zhou</b>, Xia Hu, Chin-Chia Michael Yeh, Yan Zheng, Hao Yang.<br>
-<i>ACM Recommender Systems Conference, 2022.</i>
+<i>ACM Recommender Systems Conference, 2022.</i></p>
 
 [KDD' 22] GPPT: Graph Pre-training and Prompt Tuning to Generalize Graph Neural Networks
 <b>Kaixiong Zhou*</b>, Ming-chen Sun*, Xin He,  Ying Wang, and Xin Wang.
