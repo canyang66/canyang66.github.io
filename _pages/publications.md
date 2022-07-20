@@ -22,10 +22,10 @@ Huiyuan Chen, Xiaoting Li, <b>Kaixiong Zhou</b>, Xia Hu, Chin-Chia Michael Yeh, 
 
 <li> GPPT: Graph Pre-training and Prompt Tuning to Generalize Graph Neural Networks<br />
 <b>Kaixiong Zhou*</b>, Ming-chen Sun*, Xin He,  Ying Wang, and Xin Wang.<br />
-<i>ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2022.</i><br /></li>
+<i>ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2022.</i><br /></li>
 
 <li> Bag of Tricks for Training Deeper Graph Neural Networks: A Comprehensive Benchmark Study<br />
-<b>Kaixiong Zhou</b>, Tianlong Chen*, Keyu Duan, Wenqing Zheng, Peihao Wang, Xia Hu, Zhangyang Wang.<br />
+<b>Kaixiong Zhou*</b>, Tianlong Chen*, Keyu Duan, Wenqing Zheng, Peihao Wang, Xia Hu, Zhangyang Wang.<br />
 <i>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022.</i><br /></li>
 
 <li> Table2Graph: Transforming Tabular Data to Unified Weighted Graph<br />
