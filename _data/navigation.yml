@@ -3,13 +3,13 @@ main:
 #  - title: "CV/Bio"
 #    url: /cv/
 
-  - title: "Publications"
+  - title: "Publication"
     url: /publications/
 
   - title: "Experience"
     url: /experiences/
     
-  - title: "Awards"
+  - title: "Award"
     url: /awards/
 
 
