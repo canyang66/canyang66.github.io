@@ -36,7 +36,7 @@ Internship
 <li> Research Intern at Visa Research, May 2021 - Aug. 2021 <br />
 -- Research topics: Graph data mining <br /></li>
 
-<li> Research Intern at Samsung Research America, May 2020 - Aug. 2021 <br />
+<li> Research Intern at Samsung Research America, May 2020 - Aug. 2020 <br />
 -- Research topics: Graph modeling for tabular data <br /></li>
 </ul>
 
