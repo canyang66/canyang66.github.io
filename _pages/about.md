@@ -18,7 +18,7 @@ My research interests lie in the broad area of graph data mining,
 particularly in graph nueral networks, 
 large-scale graph computation, graph meta learning, and the real-world applications.
 
-Email: Kaixiong.Zhou at rice.edu. Here is my [CV](http://kaixiong-zhou.github.io/files/kaixiong_CV.pd)
+Email: Kaixiong.Zhou at rice.edu. Here is my [CV](https://github.com/Kaixiong-Zhou/kaixiong-zhou.github.io/blob/master/files/Kaixiong_CV.pdf)
 
 <br />
 
