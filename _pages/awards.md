@@ -5,14 +5,10 @@ permalink: /awards/
 author_profile: true
 ---
 
-1. **Chinese Undergraduates Mathematics Competitions, 1st class (Rank: 6/60k+)**, Mar. 2015 
-
-2. **National Scholarship for Outstanding Graduate Student (top 3%)**, USTC, Oct. 2018
-
-3. **National Scholarship for Outstanding Graduate Student (top 1%)**, HIT, Sep. 2015
-
-4. **Outstanding Graduate Students Awards, USTC $\&$ Anhui Province**, Apr. 2019 
-
-5. **Outstanding Undergraduate Students Awards**, HIT, Jul. 2016 
-
-6. **China Aerospace Science and Technology Corporation Grants**, HIT, 2013,2014, 2015 
+<ul>
+<li> Student Travel Award, KDD 2022. <br /></li>
+<li> Excellent Graduates in Anhui Province, China, 2018. <br /></li>
+<li> Outstanding Graduates Awards, USTC, 2018. <br /></li>
+<li> National Scholarship for Outstanding Graduate Student, 2017. <br /></li>
+<li> First Prize of Excellent Student Scholarship of SYSU, 2012, 2013 (top 5\%). <br /></li>
+<\ul>

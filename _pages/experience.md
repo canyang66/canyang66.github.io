@@ -4,24 +4,46 @@ title: "Education"
 permalink: /experiences/
 author_profile: true
 ---
+<ul>
+<li>
+Rice University, Houston, Aug. 2021 - Present <br />
+-- Ph.D. student in Computer Science <br />
+</li>
 
-**Texas A&M University, College Station**, Aug. 2019 - present \\
--- Ph.D. in Computer Science and Engineer Department \\
--- [DATA](http://people.tamu.edu/~guangzhou92/Data_Lab/) Lab, supervision by Prof. [Xia Ben Hu](https://people.engr.tamu.edu/xiahu/index.html)
+<li>
+Texas A&M University, College Station, Aug. 2018 - Aug. 2021 <br />
+-- Ph.D. student in Computer Science <br />
+</li>
 
-**University Science and Technology of China, Hefei**, Sep. 2016 - Jun. 2019 \\
--- M.S. in Information and Communication Engineering
+<li>
+University Science and Technology of China, Hefei, Sep. 2015 - Jun. 2018 <br />
+-- M.S. in Information and Communication Engineering <br />
+</li>
 
-**Harbin Insuitute of Technology, Harbin**, Aug. 2012 - Jun. 2016 \\
--- B.S. in Electronic and Information Engineering\\
-<br />
+<li>
+Sun Yat-Sen University, Aug. 2012 - Jun. 2016 <br />
+-- B.S. in Electronic Information Science and Technology <br />
+-- Dual Major in Mathematics and Applied Mathematics <br />
+</li>
+</ul>
 
-Experience
+Internship
 =====
-**Research Assistant in DATA Lab at TAMU, College Station**, Sep. 2019 - present \\
--- Supervisor: Dr. Xia Hu\\
--- Research topics: Truthworthy machine learning
+<ul>
+<li> Research Intern at Google, May 2022 - Present  <br />
+-- Research topics: Graph perspetive in video text spotting <br /></li>
 
-**Research Intern at Samsung Research America Ads AI team, Remotely**, May. 2020 - Aug 2020 \\
--- Supervisor: [Dr. Li Li](https://scholar.google.com/citations?user=FPcI7HkAAAAJ&hl=en) and [Dr. Rui Chen](https://scholar.google.com/citations?user=ngVttWUAAAAJ&hl=en)\\
--- Research topics: Improving the performance of models deployed on the digital advertising platform via multi-task learning and hyperparameter tuning.
+<li> Research Intern at Visa Research, May 2021 - Aug. 2021 <br />
+-- Research topics: Graph data mining <br /></li>
+
+<li> Research Intern at Samsung Research America, May 2020 - Aug. 2021 <br />
+-- Research topics: Graph modeling for tabular data <br /></li>
+
+
+Service
+=====
+<ul>
+<li> Program Committee Members: CIKM' 20, AAAI' 21, ICML' 21, NeurIPS' 21, SIGKDD' 21, AAAI' 22, ICLR' 22, 
+SIGKDD' 22, ICML' 22, IJCAI' 22, NeurIPS 2022. <br /></li>
+
+<li> Top 10% of reviewers at ICML 2022 <br /></li>
