@@ -21,7 +21,7 @@ University Science and Technology of China, Hefei, Sep. 2015 - Jun. 2018 <br />
 </li>
 
 <li>
-Sun Yat-Sen University, Aug. 2012 - Jun. 2016 <br />
+Sun Yat-Sen University, Aug. 2011 - Jun. 2015 <br />
 -- B.S. in Electronic Information Science and Technology <br />
 -- Dual Major in Mathematics and Applied Mathematics <br />
 </li>

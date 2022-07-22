@@ -1,11 +1,10 @@
 ---
 layout: archive
-# title: "Publication(* indicates equal contribution)"
+title: "Preprint"
 permalink: /publications/
 author_profile: true
 ---
 
-## Preprint
 <ul>
 <li>Adaptive Label Smoothing To Regularize Large-Scale Graph Training<br />
 <b>Kaixiong Zhou</b>, Ninghao Liu, Fan Yang, Zirui Liu, Rui Chen, Li Li, Soo-Hyun Choi, and Xia Hu.<br /></li>
