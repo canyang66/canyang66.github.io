@@ -38,7 +38,7 @@ Internship
 
 <li> Research Intern at Samsung Research America, May 2020 - Aug. 2021 <br />
 -- Research topics: Graph modeling for tabular data <br /></li>
-
+</ul>
 
 Service
 =====
@@ -47,3 +47,4 @@ Service
 SIGKDD' 22, ICML' 22, IJCAI' 22, NeurIPS 2022. <br /></li>
 
 <li> Top 10% of reviewers at ICML 2022 <br /></li>
+</ul>
