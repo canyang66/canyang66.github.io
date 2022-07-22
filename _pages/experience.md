@@ -31,7 +31,7 @@ Internship
 =====
 <ul>
 <li> Research Intern at Google, May 2022 - Present  <br />
--- Research topics: Graph perspetive in video text spotting <br /></li>
+-- Research topics: Graph perspective in video text spotting <br /></li>
 
 <li> Research Intern at Visa Research, May 2021 - Aug. 2021 <br />
 -- Research topics: Graph data mining <br /></li>
