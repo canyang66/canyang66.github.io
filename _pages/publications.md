@@ -14,13 +14,17 @@ author_profile: true
 </ul>
 
 ## Conference/Journal Papers (* indicates equal contributions)
-<ul><li> TinyKG: Memory-Efficient Training Framework for Knowledge Graph Neural Recommender
+<ul><li> AdaGCL: Adaptive Subgraph Contrastive Learning to Generalize Large-scale Graph Training<br />
+<b>Kaixiong Zhou*</b>, Yili Wang*, Rui Miao, Ninghao Liu, Xin Wang.<br />
+<i>ACM International Conference on Information and Knowledge Management (CIKM), 2022.</i><br /></li>
+
+<li> TinyKG: Memory-Efficient Training Framework for Knowledge Graph Neural Recommender
 Systems<br />
 Huiyuan Chen, Xiaoting Li, <b>Kaixiong Zhou</b>, Xia Hu, Chin-Chia Michael Yeh, Yan Zheng, Hao Yang.<br />
 <i>ACM Recommender Systems Conference (Recsys), 2022.</i><br /></li>
 
 <li> GPPT: Graph Pre-training and Prompt Tuning to Generalize Graph Neural Networks<br />
-<b>Kaixiong Zhou*</b>, Ming-chen Sun*, Xin He,  Ying Wang, and Xin Wang.<br />
+<b>Kaixiong Zhou*</b>, Ming-chen Sun*, Xin He,  Ying Wang, Xin Wang.<br />
 <i>ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2022.</i><br /></li>
 
 <li> Bag of Tricks for Training Deeper Graph Neural Networks: A Comprehensive Benchmark Study<br />

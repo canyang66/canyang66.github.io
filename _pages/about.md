@@ -24,6 +24,8 @@ Email: Kaixiong.Zhou at rice.edu. Here is my [CV](https://github.com/Kaixiong-Zh
 
 News
 =====
+**Aug 2022:** One paper accepted by CIKM, 2022. 
+
 **June 2022:** Thrilled to receive the Student Travel Award, KDD 2022.
 
 **May 2022:** Thrilled to start my summer internship at Google.
