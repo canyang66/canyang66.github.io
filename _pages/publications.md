@@ -14,7 +14,15 @@ author_profile: true
 </ul>
 
 ## Conference/Journal Papers (* indicates equal contributions)
-<ul><li> AdaGCL: Adaptive Subgraph Contrastive Learning to Generalize Large-scale Graph Training<br />
+<ul><li> QuanGCN: Noise-Adaptive Training for Robust Quantum Graph Convolutional Networks<br />
+<b>Kaixiong Zhou</b>, Zhenyu Zhang, Shengyuan Chen, Tianlong Chen, Xiao Huang, Zhangyang Wang, and Xia Hu.<br />
+<i>Quantum Techniques in Machine Learning (QTML), 2022.</i><br /></li>
+
+<li>A Comprehensive Study on Large-Scale Graph Training: Benchmarking and Rethinking<br />
+Keyu Duan, Zirui Liu, Peihao Wang, Wenqing Zheng, <b>Kaixiong Zhou</b>, Tianlong Chen, Xia Hu, Zhangyang Wang.<br />
+<i>Conference on Neural Information Processing Systems (NeurIPS), 2022.</i><br /></li>
+
+<li> AdaGCL: Adaptive Subgraph Contrastive Learning to Generalize Large-scale Graph Training<br />
 <b>Kaixiong Zhou*</b>, Yili Wang*, Rui Miao, Ninghao Liu, Xin Wang.<br />
 <i>ACM International Conference on Information and Knowledge Management (CIKM), 2022.</i><br /></li>
 
@@ -43,7 +51,7 @@ Duc N.M Hoang, <b>Kaixiong Zhou</b>, Tianlong Chen, Xia Hu, and Zhangyang Wang.<
 Huiyuan Chen, <b>Kaixiong Zhou</b>, Kwei-Herng Lai, Xia Hu, Fei Wang, and Hao Yang.<br />
 <i>International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2022.</i><br /></li>
 
-<li> Benchmarking Large-Scale Graph Training Over Effectiveness And Efficiency<br />
+<li> Benchmarking Large-Scale Graph Training Over Effectiveness And Efficiency (workshop paper)<br />
 Keyu Duan, Zirui Liu, Wenqing Zheng, Peihao Wang, <b>Kaixiong Zhou</b>, Tianlong Chen, Zhangyang Wang, and Xia Hu.<br />
 <i>Workshop of the Graph Learning Benchmarks of The Web Conference, 2022.</i><br /></li>
 
