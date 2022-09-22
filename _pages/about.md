@@ -16,7 +16,7 @@ under supervision of [Prof. Chen Gong](http://staff.ustc.edu.cn/~cgong821/) and 
 
 My research interests lie in the broad area of graph data mining, 
 particularly in graph nueral networks, 
-large-scale graph computation, graph meta learning, and the real-world applications.
+scalable graph computation, quantum graph machine learning, and the real-world applications.
 
 Email: Kaixiong.Zhou at rice.edu. Here is my [CV](https://github.com/Kaixiong-Zhou/kaixiong-zhou.github.io/blob/master/files/Kaixiong_CV.pdf)
 
