@@ -14,7 +14,7 @@ Sun Yat-Sen University (SYSU) in 2015, and received Master degree from Universit
 under supervision of [Prof. Chen Gong](http://staff.ustc.edu.cn/~cgong821/) and [Prof. Zhengyuan Xu](http://owc.ustc.edu.cn/2014/0818/c10523a116333/page.htm).
 
 
-My research interests lie in the broad area of graph data mining and machine learning, 
+My research interests lie in the broad area of scalable graph data mining and machine learning, 
 particularly in deep graph neural networks, 
 large-scale graph training, graph quantum computing, and the real-world applications in science problems.
 
