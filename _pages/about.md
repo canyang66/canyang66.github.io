@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year Ph.D. student from the Department of Computer Science at Rice University, 
+I am a fifth-year Ph.D. student from the Department of Computer Science at Rice University, 
 working with [Prof. Xia (Ben) Hu](https://cs.rice.edu/~xh37/index.html). Before that, I received Bachelor degree from 
 Sun Yat-sen University in 2015, and received Master degree from University of Science and Technology of China (USTC) in 2018, 
 under supervision of [Prof. Chen Gong](http://staff.ustc.edu.cn/~cgong821/) and [Prof. Zhengyuan Xu](http://owc.ustc.edu.cn/2014/0818/c10523a116333/page.htm).
 
 
-My research interests lie in the broad area of graph data mining, 
-particularly in graph neural networks, 
-scalable graph computation, graph for quantum machine learning, and the real-world applications.
+My research interests lie in the broad area of graph data mining and machine learning, 
+particularly in deep graph neural networks, 
+large-scala graph training, graph quantum computing, and the real-world applications in science problems.
 
 Email: Kaixiong.Zhou at rice.edu. Here is my [CV](https://github.com/Kaixiong-Zhou/kaixiong-zhou.github.io/blob/master/files/Kaixiong_CV.pdf)
 

@@ -8,17 +8,26 @@ author_profile: true
 <ul>
 <li>Adaptive Label Smoothing To Regularize Large-Scale Graph Training<br />
 <b>Kaixiong Zhou</b>, Ninghao Liu, Fan Yang, Zirui Liu, Rui Chen, Li Li, Soo-Hyun Choi, and Xia Hu.<br /></li>
+</ul>
 
-<li>Auto-GNN: Neural Architecture Search of Graph Neural Networksbr <br />
-<b>Kaixiong Zhou</b>, Qingquan Song, Xiao Huang, Xia Hu.<br /></li>
+## Book Chapter
+<ul>
+<li>Graph Neural Networks: AutoML<br />
+<b>Kaixiong Zhou</b>, Zirui Liu, Keyu Duan, Xia Hu<br />
+<i>Graph Neural Networks: Foundations, Frontiers, and Applications</i><br /></li>
 </ul>
 
 ## Conference/Journal Papers (* indicates equal contributions)
-<ul><li> QuanGCN: Noise-Adaptive Training for Robust Quantum Graph Convolutional Networks<br />
+<ul><li> Auto-GNN: Neural Architecture Search of Graph Neural Networksbr<br />
+<b>Kaixiong Zhou</b>,  Xiao Huang, Qingquan Song, Rui Chen, Xia Hu.<br />
+<i>Frontiers in Big Data-Machine Learning and Artificial Intelligence</i><br /></li>
+
+
+<li> QuanGCN: Noise-Adaptive Training for Robust Quantum Graph Convolutional Networks<br />
 <b>Kaixiong Zhou</b>, Zhenyu Zhang, Shengyuan Chen, Tianlong Chen, Xiao Huang, Zhangyang Wang, and Xia Hu.<br />
 <i>Quantum Techniques in Machine Learning (QTML), 2022.</i><br /></li>
 
-<li>A Comprehensive Study on Large-Scale Graph Training: Benchmarking and Rethinking<br />
+<li> A Comprehensive Study on Large-Scale Graph Training: Benchmarking and Rethinking<br />
 Keyu Duan, Zirui Liu, Peihao Wang, Wenqing Zheng, <b>Kaixiong Zhou</b>, Tianlong Chen, Xia Hu, Zhangyang Wang.<br />
 <i>Conference on Neural Information Processing Systems (NeurIPS), 2022.</i><br /></li>
 
@@ -135,10 +144,4 @@ Mian Zeng, <b>Kaixiong Zhou</b>, Chen Gong, Shun Lou, Xianqing Jin, Zhengyuan Xu
 <li> Enhanced Effective SNR Prediction for LTE Downlink<br />
 <b>Kaixiong Zhou</b>, Lin Zhang, and Ming Jiang.<br />
 <i>IEEE International Conference in Communication in China (ICCC), 2015.</i><br /></li>
-</ul>
-## Book Chapter
-<ul>
-<li>Graph Neural Networks: AutoML<br />
-<b>Kaixiong Zhou</b>, Zirui Liu, Keyu Duan, Xia Hu<br />
-<i>Graph Neural Networks: Foundations, Frontiers, and Applications</i><br /></li>
 </ul>
