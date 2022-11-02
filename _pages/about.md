@@ -10,7 +10,7 @@ redirect_from:
 
 I am a fifth-year Ph.D. student from the Department of Computer Science at Rice University, 
 working with [Prof. Xia (Ben) Hu](https://cs.rice.edu/~xh37/index.html). Before that, I received Bachelor degree from 
-Sun Yat-sen University in 2015, and received Master degree from University of Science and Technology of China (USTC) in 2018, 
+Sun Yat-Sen University (SYSU) in 2015, and received Master degree from University of Science and Technology of China (USTC) in 2018, 
 under supervision of [Prof. Chen Gong](http://staff.ustc.edu.cn/~cgong821/) and [Prof. Zhengyuan Xu](http://owc.ustc.edu.cn/2014/0818/c10523a116333/page.htm).
 
 
