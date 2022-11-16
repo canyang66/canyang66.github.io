@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8b72b2ec-b2b5-4bf7-85aa-1043d6c3c4e8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
-    </list>
+    <list default="true" id="8b72b2ec-b2b5-4bf7-85aa-1043d6c3c4e8" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +14,7 @@
         <entry file="file://$PROJECT_DIR$/_pages/about.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="284">
+              <first_editor relative-caret-position="293">
                 <caret line="17" column="44" lean-forward="true" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
               </first_editor>
               <second_editor />
@@ -112,8 +110,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="109" />
-    <option name="y" value="65" />
+    <option name="x" value="935" />
+    <option name="y" value="95" />
     <option name="width" value="1440" />
     <option name="height" value="805" />
   </component>
@@ -188,16 +186,15 @@
       <workItem from="1663881621543" duration="705000" />
       <workItem from="1663963260200" duration="482000" />
       <workItem from="1665087878797" duration="140000" />
-      <workItem from="1667425725399" duration="1251000" />
+      <workItem from="1667425725399" duration="1365000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24108000" />
+    <option name="totallyTimeSpent" value="24222000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="109" y="65" width="1440" height="805" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2067239" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -426,7 +423,7 @@
     <entry file="file://$PROJECT_DIR$/_pages/about.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="284">
+          <first_editor relative-caret-position="293">
             <caret line="17" column="44" lean-forward="true" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
           </first_editor>
           <second_editor />
