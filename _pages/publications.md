@@ -26,10 +26,13 @@ author_profile: true
 Kwei-Herng Lai, Lan Wang, Huiyuan Chen, <b>Kaixiong Zhou</b>, Fei Wang, Hao Yang, Xia Hu.<br />
 <i>SIAM International Conference on Data Mining (SDM), 2023.</i><br /></li>
 
+<li> Adaptive Risk-Aware Bidding with Budget Constraint in Display Advertising<br />
+Zhimeng Jiang, <b>Kaixiong Zhou</b>, Mi Zhang, Rui Chen, Xia Hu, Soo-Hyun Choi.<br />
+<i>AI for Web Advertising Workshop in AAAI 2023.</i><br /></li>
+
 <li> Auto-GNN: Neural Architecture Search of Graph Neural Networksbr<br />
 <b>Kaixiong Zhou</b>,  Xiao Huang, Qingquan Song, Rui Chen, Xia Hu.<br />
 <i>Frontiers in Big Data-Machine Learning and Artificial Intelligence</i><br /></li>
-
 
 <li> QuanGCN: Noise-Adaptive Training for Robust Quantum Graph Convolutional Networks<br />
 <b>Kaixiong Zhou</b>, Zhenyu Zhang, Shengyuan Chen, Tianlong Chen, Xiao Huang, Zhangyang Wang, and Xia Hu.<br />
