@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 <ul>
-<li>Adaptive Label Smoothing To Regularize Large-Scale Graph Training<br />
-<b>Kaixiong Zhou</b>, Ninghao Liu, Fan Yang, Zirui Liu, Rui Chen, Li Li, Soo-Hyun Choi, and Xia Hu.<br /></li>
+<li>MolCPT: Molecule Continuous Prompt Tuning to Generalize Molecular Representation Learning<br />
+<b>Kaixiong Zhou*</b>, Cameron Diao, Xiao Huang, Xia Hu.<br /></li>
 </ul>
 
 ## Book Chapter
