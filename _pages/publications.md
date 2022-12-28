@@ -8,6 +8,9 @@ author_profile: true
 <ul>
 <li>MolCPT: Molecule Continuous Prompt Tuning to Generalize Molecular Representation Learning<br />
 <b>Kaixiong Zhou*</b>, Cameron Diao, Xiao Huang, Xia Hu.<br /></li>
+
+<li>RSC: Accelerating Graph Neural Networks Training via Randomized Sparse Computations<br />
+Zirui Liu, Shengyuan Chen, <b>Kaixiong Zhou</b>, Daochen Zha, Xiao Huang, Xia Hu.<br /></li>
 </ul>
 
 ## Book Chapter
