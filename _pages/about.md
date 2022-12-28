@@ -26,6 +26,8 @@ Email: Kaixiong.Zhou at rice.edu. Here is my [CV](https://github.com/Kaixiong-Zh
 
 News
 =====
+**Dec. 2022:** Two papers accepted by SDM, 2023.
+
 **Sept. 2022:** One paper accepted by QTML, 2022.
 
 **Sept. 2022:** One paper accepted by NeurIPS Datasets and Benchmarks Track, 2022. 

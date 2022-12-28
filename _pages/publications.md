@@ -18,7 +18,15 @@ author_profile: true
 </ul>
 
 ## Conference/Journal Papers (* indicates equal contributions)
-<ul><li> Auto-GNN: Neural Architecture Search of Graph Neural Networksbr<br />
+<ul><li> Adaptive Label Smoothing To Regularize Large-Scale Graph Training<br />
+<b>Kaixiong Zhou*</b>, Soo-Hyun Choi*, Zirui Liu, Ninghao Liu, Fan Yang, Rui Chen, Li Li, Xia Hu.<br />
+<i>SIAM International Conference on Data Mining (SDM), 2023.</i><br /></li>
+
+<li> Context-aware Domain Adaptation for Time Series Anomaly Detection<br />
+Kwei-Herng Lai, Lan Wang, Huiyuan Chen, <b>Kaixiong Zhou</b>, Fei Wang, Hao Yang, Xia Hu.<br />
+<i>SIAM International Conference on Data Mining (SDM), 2023.</i><br /></li>
+
+<li> Auto-GNN: Neural Architecture Search of Graph Neural Networksbr<br />
 <b>Kaixiong Zhou</b>,  Xiao Huang, Qingquan Song, Rui Chen, Xia Hu.<br />
 <i>Frontiers in Big Data-Machine Learning and Artificial Intelligence</i><br /></li>
 
