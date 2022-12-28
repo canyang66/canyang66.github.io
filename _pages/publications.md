@@ -29,7 +29,7 @@ Zirui Liu, Shengyuan Chen, <b>Kaixiong Zhou</b>, Daochen Zha, Xiao Huang, Xia Hu
 Kwei-Herng Lai, Lan Wang, Huiyuan Chen, <b>Kaixiong Zhou</b>, Fei Wang, Hao Yang, Xia Hu.<br />
 <i>SIAM International Conference on Data Mining (SDM), 2023.</i><br /></li>
 
-<li> Adaptive Risk-Aware Bidding with Budget Constraint in Display Advertising<br />
+<li> Adaptive Risk-Aware Bidding with Budget Constraint in Display Advertising (workshop paper)<br />
 Zhimeng Jiang, <b>Kaixiong Zhou</b>, Mi Zhang, Rui Chen, Xia Hu, Soo-Hyun Choi.<br />
 <i>AI for Web Advertising Workshop in AAAI 2023.</i><br /></li>
 
