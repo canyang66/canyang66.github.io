@@ -26,6 +26,10 @@ Email: Kaixiong.Zhou at rice.edu. Here is my [CV](https://github.com/Kaixiong-Zh
 
 News
 =====
+**Apr. 2023:**  One paper accepted by ICML, 2023.
+
+**Apr. 2023:**  One paper accepted by IJCAI, 2023.
+
 **Dec. 2022:** Two papers accepted by SDM, 2023.
 
 **Sept. 2022:** One paper accepted by QTML, 2022.

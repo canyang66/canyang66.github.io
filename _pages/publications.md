@@ -8,9 +8,6 @@ author_profile: true
 <ul>
 <li>MolCPT: Molecule Continuous Prompt Tuning to Generalize Molecular Representation Learning<br />
 <b>Kaixiong Zhou*</b>, Cameron Diao*, Xiao Huang, Xia Hu.<br /></li>
-
-<li>RSC: Accelerating Graph Neural Networks Training via Randomized Sparse Computations<br />
-Zirui Liu, Shengyuan Chen, <b>Kaixiong Zhou</b>, Daochen Zha, Xiao Huang, Xia Hu.<br /></li>
 </ul>
 
 ## Book Chapter
@@ -21,7 +18,17 @@ Zirui Liu, Shengyuan Chen, <b>Kaixiong Zhou</b>, Daochen Zha, Xiao Huang, Xia Hu
 </ul>
 
 ## Conference/Journal Papers (* indicates equal contributions)
-<ul><li> Adaptive Label Smoothing To Regularize Large-Scale Graph Training<br />
+<ul><li>RSC: Accelerating Graph Neural Networks Training via Randomized Sparse Computations<br />
+Zirui Liu, Shengyuan Chen, <b>Kaixiong Zhou</b>, Daochen Zha, Xiao Huang, Xia Hu.<br />
+<i>International Conference on Machine Learning (ICML), 2023.</i><br /></li>
+
+
+<li> Probabilistic Masked Attention Networks for Explainable Sequential Recommendation<br />
+Huiyuan Chen, <b>Kaixiong Zhou</b>, Zhimeng Jiang, Michael Yeh, Xiaoting Li, Menghai Pan, Yan Zheng, Xia Hu, Hao Yang.<br />
+<i>International Joint Conference on Artificial Intelligence (IJCAI), 2023.</i><br /></li>
+
+
+<li> Adaptive Label Smoothing To Regularize Large-Scale Graph Training<br />
 <b>Kaixiong Zhou*</b>, Soo-Hyun Choi*, Zirui Liu, Ninghao Liu, Fan Yang, Rui Chen, Li Li, Xia Hu.<br />
 <i>SIAM International Conference on Data Mining (SDM), 2023.</i><br /></li>
 
