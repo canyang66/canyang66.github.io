@@ -20,7 +20,9 @@ efficient graph representation learning, graph quantum computing, and the real-w
 
 Email: Kaixiong.Zhou at rice.edu. Here is my [CV](https://github.com/Kaixiong-Zhou/kaixiong-zhou.github.io/blob/master/files/Kaixiong_CV.pdf)
 
-<b style="color:red;"> I am on the academic job market for faculty positions starting from Summer or Fall 2023! Please feel free to reach out if you have potential job opportunities.</b>
+<p style="color:red;"> I will join the Department of Electrical and Computer Engineering at North Carolina State University as a tenure-track Assistant Professor. 
+I am looking for self-motivated students. Please feel free to send me an email together with resume and transcripts if you are interested.
+</p>
 
 <br />
 
