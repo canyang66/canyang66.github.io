@@ -20,7 +20,6 @@ Zhaozhuo Xu, Zirui Liu, Beidi Chen, Yuxin Tang, Jue Wang, <b>Kaixiong Zhou</b>, 
 
 <li>Winner-Take-All Column Row Sampling for Memory Efficient Adaptation of Language Model<br />
 Zirui Liu, Guanchu Wang, Shaochen Zhong, Zhaozhuo Xu, Daochen Zha, Ruixiang Tang, Zhimeng Jiang, <b>Kaixiong Zhou</b>, Vipin Chaudhary, Shuai Xu, Xia Hu.<br /></li>
-
 </ul>
 
 ## Book Chapter
