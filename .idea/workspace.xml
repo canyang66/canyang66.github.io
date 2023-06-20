@@ -58,8 +58,8 @@
         <entry file="file://$PROJECT_DIR$/_pages/publications.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="291">
-                <caret line="21" column="164" selection-start-line="21" selection-start-column="164" selection-end-line="21" selection-end-column="164" />
+              <first_editor relative-caret-position="147">
+                <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
               </first_editor>
               <second_editor />
             </state>
@@ -190,12 +190,12 @@
       <workItem from="1683081317552" duration="916000" />
       <workItem from="1685829119415" duration="902000" />
       <workItem from="1686862098027" duration="610000" />
-      <workItem from="1687240180982" duration="1369000" />
+      <workItem from="1687240180982" duration="1473000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31814000" />
+    <option name="totallyTimeSpent" value="31918000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="805" extended-state="0" />
@@ -215,7 +215,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.2230014" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.35624123" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32916668" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -428,8 +428,8 @@
     <entry file="file://$PROJECT_DIR$/_pages/publications.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="291">
-            <caret line="21" column="164" selection-start-line="21" selection-start-column="164" selection-end-line="21" selection-end-column="164" />
+          <first_editor relative-caret-position="147">
+            <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
           </first_editor>
           <second_editor />
         </state>

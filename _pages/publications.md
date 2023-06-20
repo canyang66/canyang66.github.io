@@ -10,7 +10,7 @@ author_profile: true
 <b>Kaixiong Zhou*</b>, Cameron Diao*, Xiao Huang, Xia Hu.<br /></li>
 
 <li>A Survey of Graph Prompting Methods: Techniques, Applications, and Challenges<br />
-Xuansheng Wu, <b>Kaixiong Zhou*</b>, Mingchen Sun, Xin Wang, Ninghao Liu.<br /></li>
+Xuansheng Wu*, <b>Kaixiong Zhou*</b>, Mingchen Sun, Xin Wang, Ninghao Liu.<br /></li>
 
 <li>Editable Graph Neural Network for Node Classifications<br />
 Zirui Liu, Zhimeng Jiang, Shaochen Zhong, <b>Kaixiong Zhou</b>, Li Li, Rui Chen, Soo-Hyun Choi, Xia Hu.<br /></li>
