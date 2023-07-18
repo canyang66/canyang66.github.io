@@ -40,7 +40,7 @@ Zhimeng Jiang, <b>Kaixiong Zhou</b>, Mi Zhang, Rui Chen, Xia Hu, Soo-Hyun Choi.<
 <i>SIGKDD Explorations, 2023</i><br /></li>
 
 <li>Hessian-aware Quantized Node Embeddings for Recommendation (short paper)<br />
-Huiyuan Chen, Kaixiong Zhou, Kwei-Herng Lai, Chin-Chia Michael Yeh, Yan Zheng, Xia Hu, Hao Yang.<br />		
+Huiyuan Chen, <b>Kaixiong Zhou</b>, Kwei-Herng Lai, Chin-Chia Michael Yeh, Yan Zheng, Xia Hu, Hao Yang.<br />		
 <i>ACM Recommender Systems Conference (RecSys), 2023.</i><br /></li>
 
 <li>ENGAGE: Explanation Guided Data Augmentation for Graph Representation Learning<br />
