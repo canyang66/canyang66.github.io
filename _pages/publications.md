@@ -31,6 +31,18 @@ Zirui Liu, Guanchu Wang, Shaochen Zhong, Zhaozhuo Xu, Daochen Zha, Ruixiang Tang
 
 ## Conference/Journal Papers (* indicates equal contributions)
 <ul>
+<li>DSpar: An Embarrassingly Simple Strategy for Efficient GNN training and inference via Degree-based Sparsification<br />
+Zirui Liu, <b>Kaixiong Zhou</b>, Zhimeng Jiang, Li Li, Rui Chen, Soo-Hyun Choi, Xia Hu.<br />
+<i>Transactions on Machine Learning Research (TMLR), 2023.</i><br /></li>
+
+<li>Adaptive RiskAware Bidding with Budget Constraint in Display Advertising<br />
+Zhimeng Jiang, <b>Kaixiong Zhou</b>, Mi Zhang, Rui Chen, Xia Hu, Soo-Hyun Choi.<br />
+<i>SIGKDD Explorations, 2023</i><br /></li>
+
+<li>Hessian-aware Quantized Node Embeddings for Recommendation (short paper)<br />
+Huiyuan Chen, Kaixiong Zhou, Kwei-Herng Lai, Chin-Chia Michael Yeh, Yan Zheng, Xia Hu, Hao Yang.<br />		
+<i>ACM Recommender Systems Conference (RecSys), 2023.</i><br /></li>
+
 <li>ENGAGE: Explanation Guided Data Augmentation for Graph Representation Learning<br />
 Yucheng Shi, <b>Kaixiong Zhou</b>, Ninghao Liu.<br />
 <i>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), 2023.</i><br /></li>
@@ -77,7 +89,7 @@ Keyu Duan, Zirui Liu, Peihao Wang, Wenqing Zheng, <b>Kaixiong Zhou</b>, Tianlong
 <li> TinyKG: Memory-Efficient Training Framework for Knowledge Graph Neural Recommender
 Systems<br />
 Huiyuan Chen, Xiaoting Li, <b>Kaixiong Zhou</b>, Xia Hu, Chin-Chia Michael Yeh, Yan Zheng, Hao Yang.<br />
-<i>ACM Recommender Systems Conference (Recsys), 2022.</i><br /></li>
+<i>ACM Recommender Systems Conference (RecSys), 2022.</i><br /></li>
 
 <li> GPPT: Graph Pre-training and Prompt Tuning to Generalize Graph Neural Networks<br />
 <b>Kaixiong Zhou*</b>, Ming-chen Sun*, Xin He,  Ying Wang, Xin Wang.<br />

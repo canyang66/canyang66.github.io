@@ -6,7 +6,7 @@ author_profile: true
 ---
 <ul>
 <li>
-Rice University, Houston, Aug. 2021 - Present <br />
+Rice University, Houston, Aug. 2021 - Aug. 2023 <br />
 -- Ph.D. student in Computer Science <br />
 </li>
 
@@ -30,7 +30,7 @@ Sun Yat-Sen University, Aug. 2011 - Jun. 2015 <br />
 Internship
 =====
 <ul>
-<li> Research Intern at Google, May 2022 - Present  <br />
+<li> Research Intern at Google, May 2022 - Aug. 2022  <br />
 -- Research topics: Graph perspective in video text spotting <br /></li>
 
 <li> Research Intern at Visa Research, May 2021 - Aug. 2021 <br />

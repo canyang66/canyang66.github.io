@@ -16,11 +16,12 @@ under supervision of [Prof. Chen Gong](http://staff.ustc.edu.cn/~cgong821/) and 
 
 My research interests lie in the broad area of large-scale graph data mining and machine learning, 
 particularly in deep graph analysis, 
-efficient graph representation learning, graph quantum computing, and the real-world science applications in biochemical informatics.
+efficient graph representation learning, and the science applications in biochemical informatics and graph quantum computing.
 
 Email: Kaixiong.Zhou at rice.edu. Here is my [CV](https://github.com/Kaixiong-Zhou/kaixiong-zhou.github.io/blob/master/files/Kaixiong_CV.pdf)
 
-<p style="color:red;"> I will join the Department of Electrical and Computer Engineering at North Carolina State University as a tenure-track Assistant Professor. 
+<p style="color:red;"> I will join the Department of Electrical and Computer Engineering at North Carolina State University as a tenure-track Assistant Professor in Fall 2024. 
+Before that, I will be a Postdoctoral Researcher at Massachusetts Institute of Technology, working on drug discovery and synthetic biology with [Prof. James J. Collins](https://be.mit.edu/directory/james-j-collins).
 I am looking for self-motivated students. Please feel free to send me an email together with resume and transcripts if you are interested.
 </p>
 
