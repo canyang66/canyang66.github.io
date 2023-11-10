@@ -9,8 +9,7 @@ redirect_from:
 ---
 
 I am a fourth-year Ph.D. student from the Department of Artificial Intelligence at Jilin University, 
-working with [Prof. Yi Chang](http://www.yichang-cs.com/). I am currently visiting MSU，
-under supervision of [Prof. Jiliang Tang](https://www.cse.msu.edu/~tangjili/). 
+working with [Prof. Yi Chang](http://www.yichang-cs.com/). I am currently visiting MSU under supervision of [Prof. Jiliang Tang](https://www.cse.msu.edu/~tangjili/). 
 
 
 My research interests lie in the broad area of large-scale graph data mining and machine learning, 
