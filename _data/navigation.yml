@@ -6,8 +6,8 @@ main:
   - title: "Publication"
     url: /publications/
 
-  - title: "Experience"
-    url: /experiences/
+  # - title: "Experience"
+  #   url: /experiences/
     
   - title: "Award"
     url: /awards/
