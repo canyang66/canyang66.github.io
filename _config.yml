@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kaixiong Zhou"
+title                    : "Kai Guo"
 title_separator          : "-"
-name                     : &name "Kaixiong Zhou"
+name                     : &name "Kai Guo"
 description              : &description "Ph.D. student, Department of Computer, Rice University"
-url                      : https://kaixiong-zhou.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://KaiGuo20.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Kaixiong-Zhou/kaixiong-zhou.github.io"
+repository               : "KaiGuo20/KaiGuo20.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
