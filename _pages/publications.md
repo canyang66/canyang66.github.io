@@ -7,7 +7,7 @@ author_profile: true
 
 <ul>
 <li>CAP: Co-Adversarial Perturbation on Weights and Features for Improving Generalization of Graph Neural Networks<br />
-Haotian Xue, Kaixiong Zhou, Tianlong Chen, Kai Guo, Xia Hu, Yi Chang, Xin Wang<br /></li>
+Haotian Xue, Kaixiong Zhou, Tianlong Chen, <b>Kai Guo</b>, Xia Hu, Yi Chang, Xin Wang<br /></li>
 </ul>
 
 
