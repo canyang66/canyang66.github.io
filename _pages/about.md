@@ -22,7 +22,7 @@ Email: guokai20 at mails.jlu.edu.cn / guokai1 at msu.edu
 
 News
 =====
-**Nov. 2023:**  One paper accepted by Information Sciences, 2023.
+**Aug. 2023:**  One paper accepted by Information Sciences, 2023.
 
 **Apr. 2023:**  One paper accepted by ICML, 2023.
 
