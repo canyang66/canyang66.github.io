@@ -20,9 +20,9 @@ Haotian Xue, Kaixiong Zhou, Tianlong Chen, <b>Kai Guo</b>, Xia Hu, Yi Chang, Xin
 
 <li>Out-of-Distribution Generalization of Federated Learning via Implicit Invariant Relationships<br />
 Yaming Guo*, <b>Kai Guo*</b>, Xiaofeng Cao, Tieru Wu, Yi Chang.<br />
-<i>SIGKDD Explorations, 2023</i><br /></li>
+<i>ICML, 2023</i><br /></li>
 
 <li>Orthogonal graph neural networks<br />
 <b>Kai Guo</b>, Kaixiong Zhou, Xia Hu, Yu Li, Yi Chang, Xin Wang.<br />		
-<i>ACM Recommender Systems Conference (RecSys), 2023.</i><br /></li>
+<i>AAAI, 2023.</i><br /></li>
 </ul>
