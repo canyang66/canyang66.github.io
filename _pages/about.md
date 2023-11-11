@@ -26,5 +26,5 @@ News
 
 **Apr. 2023:**  One paper accepted by ICML, 2023.
 
-**Jun. 2022:**  One paper accepted by AAAI, 2022.
+**Jun. 2022:**  One paper accepted by AAAI, 2022 (Oral 4.5%).
 
