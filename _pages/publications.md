@@ -24,5 +24,5 @@ Yaming Guo*, <b>Kai Guo*</b>, Xiaofeng Cao, Tieru Wu, Yi Chang.<br />
 
 <li>Orthogonal graph neural networks<br />
 <b>Kai Guo</b>, Kaixiong Zhou, Xia Hu, Yu Li, Yi Chang, Xin Wang.<br />		
-<i>AAAI, 2023.</i><br /></li>
+<i>AAAI, 2022.</i><br /></li>
 </ul>
