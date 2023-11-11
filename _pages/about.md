@@ -35,12 +35,10 @@ News
 
 Selected papers
 =====
-<ul>
-<li>Out-of-Distribution Generalization of Federated Learning via Implicit Invariant Relationships<br />
+Out-of-Distribution Generalization of Federated Learning via Implicit Invariant Relationships<br />
 Yaming Guo*, <b>Kai Guo*</b>, Xiaofeng Cao, Tieru Wu, Yi Chang.<br />
-<i>ICML, 2023</i><br /></li>
+<i>ICML, 2023</i><br />
 
-<li>Orthogonal graph neural networks<br />
+Orthogonal graph neural networks<br />
 <b>Kai Guo</b>, Kaixiong Zhou, Xia Hu, Yu Li, Yi Chang, Xin Wang.<br />		
-<i>AAAI, 2022.</i><br /></li>
-</ul>
+<i>AAAI, 2022.</i><br />
