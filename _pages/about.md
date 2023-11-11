@@ -42,3 +42,10 @@ Yaming Guo*, <b>Kai Guo*</b>, Xiaofeng Cao, Tieru Wu, Yi Chang.<br />
 Orthogonal graph neural networks<br />
 <b>Kai Guo</b>, Kaixiong Zhou, Xia Hu, Yu Li, Yi Chang, Xin Wang.<br />		
 <i>AAAI, 2022.</i><br />
+
+
+<br />
+
+Service
+=====
+Conference Program Committee or Reviewer: TKDD, TKDE, KDD 2022 
