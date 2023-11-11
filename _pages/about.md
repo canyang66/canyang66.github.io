@@ -30,3 +30,17 @@ News
 
 **Jun. 2022:**  One paper accepted by AAAI, 2022 (Oral 4.5%).
 
+
+<br />
+
+Selected papers
+=====
+<ul>
+<li>Out-of-Distribution Generalization of Federated Learning via Implicit Invariant Relationships<br />
+Yaming Guo*, <b>Kai Guo*</b>, Xiaofeng Cao, Tieru Wu, Yi Chang.<br />
+<i>ICML, 2023</i><br /></li>
+
+<li>Orthogonal graph neural networks<br />
+<b>Kai Guo</b>, Kaixiong Zhou, Xia Hu, Yu Li, Yi Chang, Xin Wang.<br />		
+<i>AAAI, 2022.</i><br /></li>
+</ul>
