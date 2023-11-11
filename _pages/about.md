@@ -13,7 +13,7 @@ working with [Prof. Yi Chang](http://www.yichang-cs.com/). I am currently a visi
 
 
 My research interests lie in the broad area of large-scale graph data mining and machine learning, 
-particularly in deep graph analysis and out-of-distribution shift.
+particularly in deep graph analysis and out-of-distribution generalization.
 
 Email: guokai20 at mails.jlu.edu.cn / guokai1 at msu.edu 
 
