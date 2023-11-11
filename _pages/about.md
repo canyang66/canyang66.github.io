@@ -33,7 +33,7 @@ News
 
 <br />
 
-Selected papers
+Selected publication
 =====
 Out-of-Distribution Generalization of Federated Learning via Implicit Invariant Relationships<br />
 Yaming Guo*, <b>Kai Guo*</b>, Xiaofeng Cao, Tieru Wu, Yi Chang.<br />
@@ -48,4 +48,4 @@ Orthogonal graph neural networks<br />
 
 Service
 =====
-Conference Program Committee or Reviewer: TKDD, TKDE, KDD 2022, ICLR 2024 
+PC members, and reviewers for multiple journals and international conferences in machine learning and data science such as TKDD, TKDE, KDD, ICLR
