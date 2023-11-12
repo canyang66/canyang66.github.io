@@ -36,7 +36,7 @@ News
 Selected publication
 =====
 Out-of-Distribution Generalization of Federated Learning via Implicit Invariant Relationships<br />
-<b>Kai Guo*</b>, Yaming Guo*, Xiaofeng Cao, Tieru Wu, Yi Chang.<br />
+Yaming Guo*, <b>Kai Guo*</b>, Xiaofeng Cao, Tieru Wu, Yi Chang.<br />
 <i>ICML, 2023</i><br />
 
 Orthogonal graph neural networks<br />
