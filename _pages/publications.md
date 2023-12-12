@@ -14,6 +14,10 @@ Haotian Xue, Kaixiong Zhou, Tianlong Chen, <b>Kai Guo</b>, Xia Hu, Yi Chang, Xin
 
 ## Conference/Journal Papers (* indicates equal contributions)
 <ul>
+<li>Breaking the Curse of Dimensional Collapse in Graph Contrastive Learning: A Whitening Perspective<br />
+Yang Tao, <b>Kai Guo</b>, Yizhen Zheng, Shirui Pan, Xiaofeng Cao, Yi Chang<br />
+<i>Information Sciences, 2023.</i><br /></li> 
+
 <li>Taming Over-Smoothing Representation on Heterophilic Graphs<br />
 <b>Kai Guo</b>, Xiaofeng Cao, Zhining Liu, Yi Chang.<br />
 <i>Information Sciences, 2023.</i><br /></li>
