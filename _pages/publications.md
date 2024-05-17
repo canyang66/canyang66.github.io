@@ -14,6 +14,10 @@ Haotian Xue, Kaixiong Zhou, Tianlong Chen, <b>Kai Guo</b>, Xia Hu, Yi Chang, Xin
 
 ## Conference/Journal Papers (* indicates equal contributions)
 <ul>
+<li>Investigating Out-of-Distribution Generalization of GNNs: An Architecture Perspective<br />
+<b>Kai Guo</b>, Hongzhi Wen, Wei Jin, Yaming Guo, Jiliang Tang, Yi Chang.<br />		
+<i>KDD, 2024.</i><br /></li>
+
 <li>Breaking the Curse of Dimensional Collapse in Graph Contrastive Learning: A Whitening Perspective<br />
 Yang Tao, <b>Kai Guo</b>, Yizhen Zheng, Shirui Pan, Xiaofeng Cao, Yi Chang<br />
 <i>Information Sciences, 2023.</i><br /></li> 

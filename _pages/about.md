@@ -22,6 +22,8 @@ Email: guokai20 at mails.jlu.edu.cn / guokai1 at msu.edu
 
 News
 =====
+**May. 2024:** One paper accepted by KDD, 2024.
+
 **Dec. 2023:** One paper accepted by Information Sciences, 2023.
 
 **Aug. 2023:**  One paper accepted by Information Sciences, 2023.
@@ -37,6 +39,10 @@ News
 
 Selected publication
 =====
+Investigating Out-of-Distribution Generalization of GNNs: An Architecture Perspective<br />
+<b>Kai Guo</b>, Hongzhi Wen, Wei Jin, Yaming Guo, Jiliang Tang, Yi Chang.<br />		
+<i>KDD, 2024.</i><br />
+
 Out-of-Distribution Generalization of Federated Learning via Implicit Invariant Relationships<br />
 Yaming Guo*, <b>Kai Guo*</b>, Xiaofeng Cao, Tieru Wu, Yi Chang.<br />
 <i>ICML, 2023</i><br />
