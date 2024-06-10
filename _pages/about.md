@@ -12,8 +12,7 @@ I am a fourth-year Ph.D. student from the Department of Artificial Intelligence 
 working with [Prof. Yi Chang](http://www.yichang-cs.com/). I am currently a visiting scholar at Michigan State University (MSU), under supervision of [Prof. Jiliang Tang](https://www.cse.msu.edu/~tangjili/). 
 
 
-My research interests lie in the broad area of large-scale graph data mining and machine learning, 
-particularly in deep graph analysis and out-of-distribution generalization.
+My research interests lie in the broad area of data mining and graph neural networks, particularly in graph analysis and out-of-distribution generalization in graphs.
 
 Email: guokai20 at mails.jlu.edu.cn / guokai1 at msu.edu 
 
