@@ -22,15 +22,15 @@ Email: guokai1 at msu.edu
 
 News
 =====
-**Mar. 2025:** New preprint - “Empowering GraphRAG with Knowledge Filtering and Integration” [PDF](https://arxiv.org/abs/2503.13804)
+**Mar. 2025:** New preprint - “Empowering GraphRAG with Knowledge Filtering and Integration” [[pdf]](https://arxiv.org/abs/2503.13804)
 
-**Mar. 2025:**  One paper on AI for Science, titled “Aligning Large Language Models and Geometric Deep Models for Protein Representation”, has been accepted by Patterns journal. [PDF](https://arxiv.org/abs/2411.05316)
+**Mar. 2025:**  One paper on AI for Science, titled “Aligning Large Language Models and Geometric Deep Models for Protein Representation”, has been accepted by Patterns journal. [[pdf]](https://arxiv.org/abs/2411.05316)
 
-**Feb. 2025:**  New preprint studying the effectiveness of RAG vs. GraphRAG [PDF](https://arxiv.org/pdf/2502.11371)
+**Feb. 2025:**  New preprint studying the effectiveness of RAG vs. GraphRAG [[pdf]](https://arxiv.org/pdf/2502.11371)
 
-**Jan. 2025:**   New survey on Retrieval-Augmented Generation (RAG) with Graphs [PDF](https://arxiv.org/pdf/2501.00309)
+**Jan. 2025:**   New survey on Retrieval-Augmented Generation (RAG) with Graphs [[pdf]](https://arxiv.org/pdf/2501.00309)
 
-**May. 2024:** One paper accepted by KDD, 2024. [PDF](https://dl.acm.org/doi/10.1145/3637528.3671792) 
+**May. 2024:** One paper accepted by KDD, 2024. [[pdf]](https://dl.acm.org/doi/10.1145/3637528.3671792) 
 
 <!-- **Dec. 2023:** One paper accepted by Information Sciences, 2023. 
 
@@ -38,9 +38,9 @@ News
 
 **Jun. 2023:**  Begin my visiting at MSU！
 
-**Apr. 2023:**  One paper accepted by ICML, 2023 [PDF](https://proceedings.mlr.press/v202/guo23b/guo23b.pdf) 
+**Apr. 2023:**  One paper accepted by ICML, 2023 [[pdf]](https://proceedings.mlr.press/v202/guo23b/guo23b.pdf) 
 
-**Jun. 2022:**  One paper accepted by AAAI, 2022 (Oral 4.5%) [PDF](https://cdn.aaai.org/ojs/20316/20316-13-24329-1-2-20220628.pdf)
+**Jun. 2022:**  One paper accepted by AAAI, 2022 (Oral 4.5%) [[pdf]](https://cdn.aaai.org/ojs/20316/20316-13-24329-1-2-20220628.pdf)
 
 
 <br />
