@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoc at Michigan State University (MSU), and fortunately work with [Prof. Jiliang Tang](https://www.cse.msu.edu/~tangjili/)
+I am a postdoc at Michigan State University (MSU), and fortunately work with [Prof. Jiliang Tang](https://www.cse.msu.edu/~tangjili/).
 Before that, I got my Ph.D. degree from the Department of Artificial Intelligence at Jilin University, 
 working with [Prof. Yi Chang](http://www.yichang-cs.com/). 
 
