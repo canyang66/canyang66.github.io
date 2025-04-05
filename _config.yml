@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Kai Guo"
 title_separator          : "-"
 name                     : &name "Kai Guo"
-description              : &description "Ph.D. student, Department of Artificial Intelligence, Jilin University"
+description              : &description "Postdoc, Michigan State University"
 url                      : https://KaiGuo20.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "KaiGuo20/KaiGuo20.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Kai Guo"
   avatar           : "gk_profile.png"
-  bio              : "Ph.D. student, Department of Artificial Intelligence, Jilin University"
-  location         : "Changchun, Jilin"
+  bio              : "Postdoc, Michigan State University"
+  location         : "East Lansing, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=v6jYru8AAAAJ&hl=zh-CN"
