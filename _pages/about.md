@@ -8,24 +8,33 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year Ph.D. student from the Department of Artificial Intelligence at Jilin University, 
-working with [Prof. Yi Chang](http://www.yichang-cs.com/). I am currently a visiting scholar at Michigan State University (MSU), under supervision of [Prof. Jiliang Tang](https://www.cse.msu.edu/~tangjili/). 
+I am a postdoc at Michigan State University (MSU), and Fortunately work with [Prof. Jiliang Tang](https://www.cse.msu.edu/~tangjili/)
+I got my Ph.D. degree from the Department of Artificial Intelligence at Jilin University, 
+working with [Prof. Yi Chang](http://www.yichang-cs.com/). 
 
 
-My research interests lie in the broad area of data mining and graph neural networks, particularly in graph analysis and out-of-distribution generalization in graphs.
+My research interests focus on developing efficient, trustworthy, and application-driven machine learning algorithms, particularly in Graph Learning, Information Retrieval, and AI for science.
 
-Email: guokai20 at mails.jlu.edu.cn / guokai1 at msu.edu 
+Email: guokai1 at msu.edu 
 
 
 <br />
 
 News
 =====
+**Mar. 2025:** New preprint - “Empowering GraphRAG with Knowledge Filtering and Integration”
+
+**Mar. 2025:**  One paper on AI for Science, titled “Aligning Large Language Models and Geometric Deep Models for Protein Representation”, has been accepted by Patterns journal.
+
+**Feb. 2025:**  New preprint studying the effectiveness of RAG vs. GraphRAG
+
+**Jan. 2025:**   New survey on Retrieval-Augmented Generation (RAG) with Graphs
+
 **May. 2024:** One paper accepted by KDD, 2024.
 
-**Dec. 2023:** One paper accepted by Information Sciences, 2023.
+<!-- **Dec. 2023:** One paper accepted by Information Sciences, 2023.
 
-**Aug. 2023:**  One paper accepted by Information Sciences, 2023.
+**Aug. 2023:**  One paper accepted by Information Sciences, 2023. -->
 
 **Jun. 2023:**  Begin my visiting at MSU！
 
