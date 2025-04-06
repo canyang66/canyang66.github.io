@@ -26,7 +26,7 @@ News
 
 **Mar. 2025:**  One paper on AI for Science, titled “Aligning Large Language Models and Geometric Deep Models for Protein Representation”, has been accepted by Patterns journal. [[pdf]](https://arxiv.org/abs/2411.05316)
 
-**Feb. 2025:** Towards Context-Robust LLMs: A Gated Representation Fine-tuning Approach [[pdf]](https://arxiv.org/pdf/2502.14100)
+**Feb. 2025:** New preprint: Towards Context-Robust LLMs: A Gated Representation Fine-tuning Approach [[pdf]](https://arxiv.org/pdf/2502.14100)
 
 **Feb. 2025:**  New preprint studying the effectiveness of RAG vs. GraphRAG [[pdf]](https://arxiv.org/pdf/2502.11371)
 
