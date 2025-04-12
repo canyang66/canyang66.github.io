@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kai Guo"
+title                    : "Can Yang"
 title_separator          : "-"
-name                     : &name "Kai Guo"
-description              : &description "Postdoc, Michigan State University"
-url                      : https://KaiGuo20.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Can Yang"
+description              : &description "PhD Student, Chongqing University"
+url                      : https://canyang66.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "KaiGuo20/KaiGuo20.github.io"
+repository               : "canyang66/canyang66.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kai Guo"
+  name             : "Can Yang"
   avatar           : "gk_profile.png"
-  bio              : "Postdoc, Michigan State University"
-  location         : "East Lansing, USA"
+  bio              : "PhD, Chongqing University"
+  location         : "Chongqing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=v6jYru8AAAAJ&hl=zh-CN"
+  googlescholar    : 
   email            : "guokai1@msu.edu"
   researchgate     : 
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "KaiGuo20"
+  github           : "canyang66"
   google_plus      :
   keybase          :
   instagram        :
