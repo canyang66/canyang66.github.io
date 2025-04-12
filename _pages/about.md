@@ -12,9 +12,8 @@ I am a PhD student at Chongqing University.
  
 
 
-My research interests focus on developing efficient, trustworthy, and application-driven machine learning algorithms, particularly in Graph Learning, Information Retrieval, and AI for Science.
 
-Email: 
+Email: yc@ig.cq.cn
 
 
 <br />
